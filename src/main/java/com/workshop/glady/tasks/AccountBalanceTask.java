@@ -1,4 +1,4 @@
-package com.workshop.glady.taks;
+package com.workshop.glady.tasks;
 
 import com.workshop.glady.enums.DepositType;
 import com.workshop.glady.services.AccountService;
